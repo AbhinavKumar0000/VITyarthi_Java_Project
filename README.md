@@ -1,5 +1,4 @@
-# Java Chat Application.....
-
+# Java Chat Application.......
 A multi-user chat application built in Java, supporting both a command-line interface (CLI) and a graphical user interface (GUI) for clients. The server handles multiple concurrent client connections, enabling real-time messaging with unique username registration.
 
 ## Features
